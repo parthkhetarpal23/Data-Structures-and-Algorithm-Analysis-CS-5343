@@ -1,0 +1,21 @@
+Abilene,Dallas,184,San Angelo,90,Waco,184,Wichita Falls,142
+Amarillo,El Paso,440,Lubbock,123,Wichita Falls,225
+Austin,Bryan,103,Killeen,68,San Antonio,80
+Brownsville,Corpus Christi,161,McAllen,60
+Bryan,Austin,103,Houston,100,Tyler,146,Waco,86
+Corpus Christi,Brownsville,161,Houston,217,Laredo,143,McAllen,154,San Antonio,143
+Dallas,Abilene,184,Longview,126,Texarkana,177,Tyler,95,Wichita Falls,142
+El Paso,Amarillo,440,Laredo,606,Midland,305
+Houston,Bryan,100,Corpus Christi,217,San Antonio,197,Tyler,199
+Killeen,Austin,68,San Angelo,184,Waco,63
+Laredo,Corpus Christi,143,El Paso,606,McAllen,144,Midland,418,San Antonio,156
+Longview,Dallas,126,Texarkana,90,Tyler,38
+Lubbock,Amarillo,123,Midland,118,Wichita Falls,210
+McAllen,Brownsville,60,Corpus Christi,154,Laredo,144
+Midland,El Paso,305,Laredo,418,Lubbock,118,San Angelo,112
+San Angelo,Abilene,90,Killeen,184,Midland,112,San Antonio,212,Waco,215,Wichita Falls,239
+San Antonio,Austin,80,Corpus Christi,143,Houston,197,Laredo,156,San Angelo,212
+Texarkana,Dallas,177,Longview,90,Wichita Falls,272
+Tyler,Bryan,146,Dallas,95,Houston,199,Longview,38,Waco,132
+Waco,Abilene,184,Bryan,86,Killeen,63,San Angelo,215,Tyler,132
+Wichita Falls,Abilene,142,Amarillo,225,Dallas,142,Lubbock,210,San Angelo,239,Texarkana,272
